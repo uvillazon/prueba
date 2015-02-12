@@ -1,0 +1,3 @@
+elfecejemplo_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: elfecejemploBundle:Default:index }

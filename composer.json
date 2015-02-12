@@ -1,0 +1,11 @@
+{
+    "name": "vendor/prueba",
+    "description": "Description of project prueba.",
+    "authors": [
+        {
+            "name": "uvillazon",
+            "email": "ubaldo.villazon@elfec.bo"
+        }
+    ],
+    "require": {}
+}
